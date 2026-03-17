@@ -1,16 +1,16 @@
-## 🔗 Introduction to LangChain – My Learning Journey
+##  Introduction to LangChain – My Learning Journey
 
-## 📌 Overview
+##  Overview
 
 I completed the **Introduction to LangChain (Python)** course from LangChain Academy.
 While I followed the course for guidance, I built the project on my own to better understand how everything works.
 
-👉 Course link:
+ Course link:
 [https://academy.langchain.com/courses/foundation-introduction-to-langchain-python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python)
 
 ---
 
-## 🚀 What I Did
+##  What I Did
 
 * Set up the environment using Python and virtual environments
 * Worked with API keys and `.env` configuration
@@ -19,7 +19,7 @@ While I followed the course for guidance, I built the project on my own to bette
 
 ---
 
-## 🤖 Project: Personal Chef Agent
+##  Project: Personal Chef Agent
 
 In this project, I created an AI agent that:
 
@@ -36,7 +36,7 @@ This helped me understand how:
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * LangChain helps in building real-world AI applications
 * Agents combine **LLMs + tools + instructions**
@@ -45,7 +45,7 @@ This helped me understand how:
 
 ---
 
-## 💡 My Understanding
+##  My Understanding
 
 Through this project, I realized that:
 
@@ -55,7 +55,7 @@ Through this project, I realized that:
 
 ---
 
-## 🔥 Conclusion
+##  Conclusion
 
 Even though I used the course as guidance, I was able to:
 
@@ -63,7 +63,3 @@ Even though I used the course as guidance, I was able to:
 * Build the project myself
 * Gain confidence in working with AI agents
 
-
-
-* Make this into a **resume project description**
-* Or turn it into a **LinkedIn post** (this would look great there 👀)
